@@ -1,4 +1,4 @@
-import { db } from "../../config/database";
+import { db } from "../../config/db";
 import { userSchema } from "../schemas/userSchema";
 
 const users = [
